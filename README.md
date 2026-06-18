@@ -23,7 +23,7 @@ The waveform can be observed on an oscilloscope to verify timing.
 
 ## 🗺️ Circuit Diagram
 
-![Schematic](timer1.png)
+![img alert](https://github.com/manubraj/PIC-Microcontroller-Timer-Delay-Generation/blob/013a984d48795efe53ff300ee9f761b5fd4bf26d/timer1.png)
 
 ---
 
